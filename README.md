@@ -16,4 +16,3 @@ mvn clean package
 java -jar target/name_of_jar.jar
 
 #Test
-#Example of webhook trigger
